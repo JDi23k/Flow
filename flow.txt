@@ -1,0 +1,5 @@
+OOPs
+Git
+Docker
+MLops
+Gen AI
